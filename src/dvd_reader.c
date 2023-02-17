@@ -29,7 +29,6 @@
 #include <stdio.h>          /* fprintf */
 #include <errno.h>          /* errno, EIN* */
 #include <string.h>         /* memcpy, strlen */
-#include <unistd.h>         /* pclose */
 #include <limits.h>         /* PATH_MAX */
 #include <dirent.h>         /* opendir, readdir */
 #include <ctype.h>          /* isalpha */
